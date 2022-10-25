@@ -1,0 +1,1 @@
+BothNone = 3NoneNone = 0ObjectPtr = objectHashT = object

@@ -1,0 +1,1 @@
+import sims4.mathMAX_FLOAT = sims4.math.MAX_FLOAT
